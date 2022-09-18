@@ -25,4 +25,4 @@ apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perint
  $ python run_enc.py
 
 THANKSS🙏🏻
-Support by : Amelia Saputri Awaliyah • XD
+Support by : Amelia Syafutri Fauziah • XD
